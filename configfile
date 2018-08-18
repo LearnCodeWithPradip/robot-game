@@ -1,0 +1,7 @@
+robotimage='robot.jpg'
+coinimage='coin.jpeg'
+imagewidth=100
+imageheight=100
+linewidth=5
+gridrow=11
+gridcolumn=11
